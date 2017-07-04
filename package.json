@@ -1,0 +1,24 @@
+{
+  "name": "html5sortable",
+  "version": "0.0.2",
+  "description": "ightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.",
+  "main": "./jquery.sortable.js ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ql2005/html5sortable.git"
+  },
+  "keywords": [
+    "html5",
+    "sortable",
+    "jquery"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  },
+  "author": "Ali Farhadi <a.farhadi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farhadi/html5sortable/issues"
+  },
+  "homepage": "http://farhadi.ir/projects/html5sortable/"
+}
